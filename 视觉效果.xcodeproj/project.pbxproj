@@ -10,6 +10,7 @@
 		CD365E7D2086EECC00778E90 /* KYJTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CD365E7B2086EECC00778E90 /* KYJTableViewCell.m */; };
 		CD365E7E2086EECC00778E90 /* KYJTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD365E7C2086EECC00778E90 /* KYJTableViewCell.xib */; };
 		CD365E802087147400778E90 /* 视觉差.gif in Resources */ = {isa = PBXBuildFile; fileRef = CD365E7F2087147400778E90 /* 视觉差.gif */; };
+		CD58817620871F9000159B45 /* 视觉效果.gif in Resources */ = {isa = PBXBuildFile; fileRef = CD58817520871F9000159B45 /* 视觉效果.gif */; };
 		CDFF0FB32079B24B0050DB6A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFF0FB22079B24B0050DB6A /* AppDelegate.m */; };
 		CDFF0FB62079B24B0050DB6A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDFF0FB52079B24B0050DB6A /* ViewController.m */; };
 		CDFF0FB92079B24B0050DB6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDFF0FB72079B24B0050DB6A /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		CD365E7B2086EECC00778E90 /* KYJTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KYJTableViewCell.m; sourceTree = "<group>"; };
 		CD365E7C2086EECC00778E90 /* KYJTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = KYJTableViewCell.xib; sourceTree = "<group>"; };
 		CD365E7F2087147400778E90 /* 视觉差.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "视觉差.gif"; sourceTree = "<group>"; };
+		CD58817520871F9000159B45 /* 视觉效果.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "视觉效果.gif"; sourceTree = "<group>"; };
 		CDFF0FAE2079B24B0050DB6A /* 视觉效果.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "视觉效果.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDFF0FB12079B24B0050DB6A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CDFF0FB22079B24B0050DB6A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				CDFF0FB72079B24B0050DB6A /* Main.storyboard */,
 				CDFF0FBA2079B24B0050DB6A /* Assets.xcassets */,
 				CD365E7F2087147400778E90 /* 视觉差.gif */,
+				CD58817520871F9000159B45 /* 视觉效果.gif */,
 				CDFF0FBC2079B24B0050DB6A /* LaunchScreen.storyboard */,
 				CDFF0FBF2079B24C0050DB6A /* Info.plist */,
 				CDFF0FC02079B24C0050DB6A /* main.m */,
@@ -145,6 +148,7 @@
 				CD365E7E2086EECC00778E90 /* KYJTableViewCell.xib in Resources */,
 				CD365E802087147400778E90 /* 视觉差.gif in Resources */,
 				CDFF0FB92079B24B0050DB6A /* Main.storyboard in Resources */,
+				CD58817620871F9000159B45 /* 视觉效果.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
